@@ -1,5 +1,12 @@
 
 
+## [0.4.1](https://github.com/ysabeellaa/spike-changelog/compare/0.4.0...0.4.1) (2024-04-25)
+
+
+### Bug Fixes
+
+* improve changelog rules ([0a0c3df](https://github.com/ysabeellaa/spike-changelog/commit/0a0c3df75d9a658e8a0cca0e053852defcc55594))
+
 ## [0.4.0](https://github.com/ysabeellaa/spike-changelog/compare/0.3.0...0.4.0) (2024-04-25)
 
 
