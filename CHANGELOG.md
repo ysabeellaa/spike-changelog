@@ -1,5 +1,17 @@
 
 
+## [0.4.0](https://github.com/ysabeellaa/spike-changelog/compare/0.3.0...0.4.0) (2024-04-25)
+
+
+### Features
+
+* improve changelog rules ([d8e68cc](https://github.com/ysabeellaa/spike-changelog/commit/d8e68ccab34efa85d223971cf8bc9bb1a54276e1))
+
+
+### Chores
+
+* npm run release to npm run changelog ([0da35e7](https://github.com/ysabeellaa/spike-changelog/commit/0da35e78a6fd91366a79594420c6ab98af1af8a7))
+
 ## [0.3.0](https://github.com/ysabeellaa/spike-changelog/compare/0.2.0...0.3.0) (2024-04-25)
 
 
