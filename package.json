@@ -30,7 +30,7 @@
   },
   "release-it": {
     "git": {
-      "commitMessage": "chore: release v${version}"
+      "commitMessage": "lib-version: release v${version}"
     },
     "github": {
       "release": true
