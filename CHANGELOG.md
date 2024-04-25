@@ -1,5 +1,12 @@
 
 
+## [0.4.3](https://github.com/ysabeellaa/spike-changelog/compare/0.4.2...0.4.3) (2024-04-25)
+
+
+### Chores
+
+* removing github actions flow ([bb05eee](https://github.com/ysabeellaa/spike-changelog/commit/bb05eee1b7f693926425d6a011bb81a0cde5debd))
+
 ## [0.4.2](https://github.com/ysabeellaa/spike-changelog/compare/0.4.1...0.4.2) (2024-04-25)
 
 
