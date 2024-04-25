@@ -22,5 +22,5 @@ jobs:
       run: npm install
 
     - name: Run release command
-      run: npm run release-it
+      run: release-it
 
