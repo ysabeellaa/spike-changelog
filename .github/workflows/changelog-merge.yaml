@@ -1,4 +1,4 @@
-name: Release Workflow Changelog
+name: Release Workflow
 
 on:
   pull_request:
@@ -22,4 +22,5 @@ jobs:
       run: npm install
 
     - name: Run release command
-      run: npm run release
+      run: npx release-it
+
