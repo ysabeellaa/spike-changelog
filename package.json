@@ -1,7 +1,7 @@
 {
   "name": "spike-changelog",
   "private": true,
-  "version": "0.4.1",
+  "version": "0.4.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -30,7 +30,7 @@
   },
   "release-it": {
     "git": {
-      "commitMessage": "chore: release v${version}"
+      "commitMessage": "lib-version: release v${version}"
     },
     "github": {
       "release": true

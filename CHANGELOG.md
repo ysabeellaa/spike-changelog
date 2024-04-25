@@ -1,5 +1,12 @@
 
 
+## [0.4.2](https://github.com/ysabeellaa/spike-changelog/compare/0.4.1...0.4.2) (2024-04-25)
+
+
+### Bug Fixes
+
+* change commitMessage in master to lib-version ([67e43f3](https://github.com/ysabeellaa/spike-changelog/commit/67e43f308e0add0d19ae902a73eac37a080ad9a9))
+
 ## [0.4.1](https://github.com/ysabeellaa/spike-changelog/compare/0.4.0...0.4.1) (2024-04-25)
 
 
