@@ -52,6 +52,14 @@
               "type": "fix",
               "section": "Bug Fixes"
             },
+            {
+              "type": "spike",
+              "section": "Spikes"
+            },
+            {
+              "type": "chore",
+              "section": "Chores"
+            },
             {}
           ]
         }
