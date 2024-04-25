@@ -1,5 +1,12 @@
 
 
+## [0.3.0](https://github.com/ysabeellaa/spike-changelog/compare/0.2.0...0.3.0) (2024-04-25)
+
+
+### Features
+
+* adding Image component ([ab8ecb0](https://github.com/ysabeellaa/spike-changelog/commit/ab8ecb02e7615434307fe00b6a64f2646d40b841))
+
 ## [0.2.0](https://github.com/ysabeellaa/spike-changelog/compare/0.1.0...0.2.0) (2024-04-25)
 
 
