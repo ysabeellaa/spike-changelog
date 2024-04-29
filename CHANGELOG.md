@@ -1,5 +1,12 @@
 
 
+## [0.5.0](https://github.com/ysabeellaa/spike-changelog/compare/0.4.3...0.5.0) (2024-04-29)
+
+
+### Features
+
+* space in image ([23b680b](https://github.com/ysabeellaa/spike-changelog/commit/23b680b5a5288842b78a4bfe420ed9e03fdb0a1a))
+
 ## [0.4.3](https://github.com/ysabeellaa/spike-changelog/compare/0.4.2...0.4.3) (2024-04-25)
 
 
