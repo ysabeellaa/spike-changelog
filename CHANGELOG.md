@@ -1,5 +1,12 @@
 
 
+## [0.6.1](https://github.com/ysabeellaa/spike-changelog/compare/0.6.0...0.6.1) (2024-04-29)
+
+
+### Bug Fixes
+
+* removing space ([3cc0b94](https://github.com/ysabeellaa/spike-changelog/commit/3cc0b9434012aae81cea13c733ae891e7a1bad67))
+
 ## [0.6.0](https://github.com/ysabeellaa/spike-changelog/compare/0.5.1...0.6.0) (2024-04-29)
 
 
