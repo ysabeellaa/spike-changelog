@@ -1,5 +1,12 @@
 
 
+## [1.0.1](https://github.com/ysabeellaa/spike-changelog/compare/1.0.0...1.0.1) (2024-04-30)
+
+
+### Bug Fixes
+
+* package publish ([395d3e5](https://github.com/ysabeellaa/spike-changelog/commit/395d3e5351d39de459a8772ec927c777bcc8f082))
+
 ## [1.0.0](https://github.com/ysabeellaa/spike-changelog/compare/0.7.0...1.0.0) (2024-04-30)
 
 ## [0.7.1](https://github.com/ysabeellaa/spike-changelog/compare/0.7.0...null) (2024-04-30)
