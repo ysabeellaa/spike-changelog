@@ -1,5 +1,24 @@
 
 
+## [1.0.0](https://github.com/ysabeellaa/spike-changelog/compare/0.7.0...1.0.0) (2024-04-30)
+
+## [0.7.1](https://github.com/ysabeellaa/spike-changelog/compare/0.7.0...null) (2024-04-30)
+
+* test (0a23b1f)
+
+## [0.7.0](https://github.com/ysabeellaa/spike-changelog/compare/0.6.4...0.7.0) (2024-04-30)
+
+## [0.6.4](https://github.com/ysabeellaa/spike-changelog/compare/0.6.3...0.6.4) (2024-04-30)
+
+## [0.6.3](https://github.com/ysabeellaa/spike-changelog/compare/0.6.1...0.6.3) (2024-04-30)
+
+
+### Bug Fixes
+
+* test ([816a653](https://github.com/ysabeellaa/spike-changelog/commit/816a653f46c4d97343afa6c9afcd01c0a0a30959))
+
+## [0.6.2](https://github.com/ysabeellaa/spike-changelog/compare/0.6.1...0.6.2) (2024-04-30)
+
 ## [0.6.1](https://github.com/ysabeellaa/spike-changelog/compare/0.6.0...0.6.1) (2024-04-29)
 
 
