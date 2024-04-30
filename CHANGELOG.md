@@ -1,5 +1,7 @@
 
 
+## [0.7.0](https://github.com/ysabeellaa/spike-changelog/compare/0.6.4...0.7.0) (2024-04-30)
+
 ## [0.6.4](https://github.com/ysabeellaa/spike-changelog/compare/0.6.3...0.6.4) (2024-04-30)
 
 ## [0.6.3](https://github.com/ysabeellaa/spike-changelog/compare/0.6.1...0.6.3) (2024-04-30)
